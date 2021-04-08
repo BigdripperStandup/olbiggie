@@ -17,3 +17,7 @@ exit
 its not working
 
 hold on lemme bing it.
+
+:q :q :q
+
+doesnt work still
